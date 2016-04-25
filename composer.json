@@ -1,0 +1,24 @@
+{
+    "name": "Ozzyboshi/yii2-GridviewMultiheader",
+    "description": "An extended gridview widget for Yii 2 with multi headers.",
+    "keywords": ["yii2", "extension", "widget", "gridview", "multiheader" ],
+    "homepage": "https://github.com/Ozzyboshi/yii2-GridviewMultiheader",
+    "type": "yii2-extension",
+    "license": "GNU v3",
+    "authors": [
+        {
+            "name": "Alessio Garzi",
+            "email": "gun101@email.it",
+            "homepage": "https://github.com/Ozzyboshi/yii2-GridviewMultiheader"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ozzyboshi\\gridviewmultiheader\\": ""
+        }
+    }
+}
