@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ozzyboshi\\gridviewmultiheader\\": ""
+            "ozzyboshi\\yii2-gridview-multiheader\\": ""
         }
     }
 }
