@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * @copyright Copyright &copy; Alessio Garzi, 2016
+ * @package yii2-gridviewmultiheader
+ * @version 1.0.0
+ */
+
 namespace ozzyboshi\gridviewmultiheader;
 
 use yii\grid\GridView;
