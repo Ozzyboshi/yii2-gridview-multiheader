@@ -1,5 +1,5 @@
 {
-    "name": "Ozzyboshi/yii2-GridviewMultiheader",
+    "name": "ozzyboshi/yii2-gridview-multiheader",
     "description": "An extended gridview widget for Yii 2 with multi headers.",
     "keywords": ["yii2", "extension", "widget", "gridview", "multiheader" ],
     "homepage": "https://github.com/Ozzyboshi/yii2-GridviewMultiheader",
